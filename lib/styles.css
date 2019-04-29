@@ -165,7 +165,7 @@
     -moz-transform: rotate(360deg); } }
 
 :local .notifications-system {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.428571429; }
 
@@ -202,15 +202,15 @@
       animation-fill-mode: forwards;
       -webkit-animation-name: top20px-enter;
       animation-name: top20px-enter;
-      -webkit-animation-duration: .4s;
-      animation-duration: .4s; }
+      -webkit-animation-duration: 0.4s;
+      animation-duration: 0.4s; }
     :local .notifications-container--t .notification-wrapper-leave {
       -webkit-animation-fill-mode: forwards;
       animation-fill-mode: forwards;
       -webkit-animation-name: top20px-leave;
       animation-name: top20px-leave;
-      -webkit-animation-duration: .8s;
-      animation-duration: .8s; }
+      -webkit-animation-duration: 0.8s;
+      animation-duration: 0.8s; }
 
 :local .notifications-container--tc {
   top: 20px;
@@ -224,15 +224,15 @@
       animation-fill-mode: forwards;
       -webkit-animation-name: top20px-enter;
       animation-name: top20px-enter;
-      -webkit-animation-duration: .4s;
-      animation-duration: .4s; }
+      -webkit-animation-duration: 0.4s;
+      animation-duration: 0.4s; }
     :local .notifications-container--tc .notification-wrapper-leave {
       -webkit-animation-fill-mode: forwards;
       animation-fill-mode: forwards;
       -webkit-animation-name: top20px-leave;
       animation-name: top20px-leave;
-      -webkit-animation-duration: .8s;
-      animation-duration: .8s; }
+      -webkit-animation-duration: 0.8s;
+      animation-duration: 0.8s; }
 
 :local .notifications-container--tr {
   top: 20px;
@@ -245,15 +245,15 @@
       animation-fill-mode: forwards;
       -webkit-animation-name: right20px-enter;
       animation-name: right20px-enter;
-      -webkit-animation-duration: .4s;
-      animation-duration: .4s; }
+      -webkit-animation-duration: 0.4s;
+      animation-duration: 0.4s; }
     :local .notifications-container--tr .notification-wrapper-leave {
       -webkit-animation-fill-mode: forwards;
       animation-fill-mode: forwards;
       -webkit-animation-name: right20px-leave;
       animation-name: right20px-leave;
-      -webkit-animation-duration: .8s;
-      animation-duration: .8s; }
+      -webkit-animation-duration: 0.8s;
+      animation-duration: 0.8s; }
 
 :local .notifications-container--tl {
   top: 20px;
@@ -266,15 +266,15 @@
       animation-fill-mode: forwards;
       -webkit-animation-name: left20px-enter;
       animation-name: left20px-enter;
-      -webkit-animation-duration: .4s;
-      animation-duration: .4s; }
+      -webkit-animation-duration: 0.4s;
+      animation-duration: 0.4s; }
     :local .notifications-container--tl .notification-wrapper-leave {
       -webkit-animation-fill-mode: forwards;
       animation-fill-mode: forwards;
       -webkit-animation-name: left20px-leave;
       animation-name: left20px-leave;
-      -webkit-animation-duration: .8s;
-      animation-duration: .8s; }
+      -webkit-animation-duration: 0.8s;
+      animation-duration: 0.8s; }
 
 :local .notifications-container--b {
   width: calc(100% - 40px);
@@ -288,15 +288,15 @@
       animation-fill-mode: forwards;
       -webkit-animation-name: bottom20px-enter;
       animation-name: bottom20px-enter;
-      -webkit-animation-duration: .4s;
-      animation-duration: .4s; }
+      -webkit-animation-duration: 0.4s;
+      animation-duration: 0.4s; }
     :local .notifications-container--b .notification-wrapper-leave {
       -webkit-animation-fill-mode: forwards;
       animation-fill-mode: forwards;
       -webkit-animation-name: bottom20px-leave;
       animation-name: bottom20px-leave;
-      -webkit-animation-duration: .8s;
-      animation-duration: .8s; }
+      -webkit-animation-duration: 0.8s;
+      animation-duration: 0.8s; }
 
 :local .notifications-container--bc {
   bottom: 0;
@@ -310,15 +310,15 @@
       animation-fill-mode: forwards;
       -webkit-animation-name: bottom20px-enter;
       animation-name: bottom20px-enter;
-      -webkit-animation-duration: .4s;
-      animation-duration: .4s; }
+      -webkit-animation-duration: 0.4s;
+      animation-duration: 0.4s; }
     :local .notifications-container--bc .notification-wrapper-leave {
       -webkit-animation-fill-mode: forwards;
       animation-fill-mode: forwards;
       -webkit-animation-name: bottom20px-leave;
       animation-name: bottom20px-leave;
-      -webkit-animation-duration: .8s;
-      animation-duration: .8s; }
+      -webkit-animation-duration: 0.8s;
+      animation-duration: 0.8s; }
 
 :local .notifications-container--br {
   bottom: 0;
@@ -331,15 +331,15 @@
       animation-fill-mode: forwards;
       -webkit-animation-name: right20px-enter;
       animation-name: right20px-enter;
-      -webkit-animation-duration: .4s;
-      animation-duration: .4s; }
+      -webkit-animation-duration: 0.4s;
+      animation-duration: 0.4s; }
     :local .notifications-container--br .notification-wrapper-leave {
       -webkit-animation-fill-mode: forwards;
       animation-fill-mode: forwards;
       -webkit-animation-name: right20px-leave;
       animation-name: right20px-leave;
-      -webkit-animation-duration: .8s;
-      animation-duration: .8s; }
+      -webkit-animation-duration: 0.8s;
+      animation-duration: 0.8s; }
 
 :local .notifications-container--bl {
   bottom: 0;
@@ -352,15 +352,15 @@
       animation-fill-mode: forwards;
       -webkit-animation-name: left20px-enter;
       animation-name: left20px-enter;
-      -webkit-animation-duration: .4s;
-      animation-duration: .4s; }
+      -webkit-animation-duration: 0.4s;
+      animation-duration: 0.4s; }
     :local .notifications-container--bl .notification-wrapper-leave {
       -webkit-animation-fill-mode: forwards;
       animation-fill-mode: forwards;
       -webkit-animation-name: left20px-leave;
       animation-name: left20px-leave;
-      -webkit-animation-duration: .8s;
-      animation-duration: .8s; }
+      -webkit-animation-duration: 0.8s;
+      animation-duration: 0.8s; }
 
 @media (max-width: 767px) {
   :local .notifications-container--t {
@@ -375,15 +375,15 @@
         animation-fill-mode: forwards;
         -webkit-animation-name: top0-enter;
         animation-name: top0-enter;
-        -webkit-animation-duration: .4s;
-        animation-duration: .4s; }
+        -webkit-animation-duration: 0.4s;
+        animation-duration: 0.4s; }
       :local .notifications-container--t .notification-wrapper-leave {
         -webkit-animation-fill-mode: forwards;
         animation-fill-mode: forwards;
         -webkit-animation-name: top0-leave;
         animation-name: top0-leave;
-        -webkit-animation-duration: .8s;
-        animation-duration: .8s; }
+        -webkit-animation-duration: 0.8s;
+        animation-duration: 0.8s; }
     :local .notifications-container--t .notification-wrapper {
       margin: 0; } }
 
@@ -426,12 +426,12 @@
     box-sizing: border-box; }
   :local .notification-close-button {
     font-size: 14px !important;
-    color: #524c4c;
+    color: #ffffff;
     cursor: pointer; }
     :local .notification-close-button:before {
       content: ""; }
     :local .notification-close-button:hover {
-      color: #6c6565; }
+      color: white; }
   :local .notification-buttons {
     display: flex;
     box-sizing: border-box;
@@ -446,7 +446,7 @@
       border-left: 1px solid rgba(0, 0, 0, 0.09);
       outline: none;
       text-align: center;
-      color: #524c4c;
+      color: #ffffff;
       cursor: pointer; }
       :local .notification-buttons .notification-button-text {
         display: block;
@@ -478,41 +478,41 @@
   :local .notification--default {
     background-color: #7168f8;
     border-left: 2px solid #7168f8;
-    color: #524c4c; }
+    color: #ffffff; }
     :local .notification--default .notification-icon {
       display: none; }
   :local .notification--success {
     background-color: #7168f8;
     border-left: 2px solid #7168f8;
-    color: #524c4c; }
+    color: #ffffff; }
     :local .notification--success .notification-icon:before {
       content: "";
       color: #7168f8; }
   :local .notification--info {
     background-color: #7168f8;
     border-left: 2px solid #7168f8;
-    color: #524c4c; }
+    color: #ffffff; }
     :local .notification--info .notification-icon:before {
       content: "";
       color: #7168f8; }
   :local .notification--warning {
     background-color: #7168f8;
     border-left: 2px solid #7168f8;
-    color: #524c4c; }
+    color: #ffffff; }
     :local .notification--warning .notification-icon:before {
       content: "";
       color: #7168f8; }
   :local .notification--error {
     background-color: #7168f8;
     border-left: 2px solid #7168f8;
-    color: #524c4c; }
+    color: #ffffff; }
     :local .notification--error .notification-icon:before {
       content: "";
       color: #7168f8; }
   :local .notification--loading {
     background-color: #ffffff;
     border-left: 2px solid #349ef3;
-    color: #524c4c; }
+    color: #ffffff; }
     :local .notification--loading .notification-icon {
       -webkit-animation: rotating 2s infinite linear;
       animation: rotating 2s infinite linear; }
