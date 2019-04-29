@@ -476,39 +476,39 @@
   :local .notification--dismissible {
     cursor: pointer; }
   :local .notification--default {
-    background-color: #ffffff;
-    border-left: 2px solid #ffffff;
+    background-color: #7168f8;
+    border-left: 2px solid #7168f8;
     color: #524c4c; }
     :local .notification--default .notification-icon {
       display: none; }
   :local .notification--success {
-    background-color: #ffffff;
-    border-left: 2px solid #4dc657;
+    background-color: #7168f8;
+    border-left: 2px solid #7168f8;
     color: #524c4c; }
     :local .notification--success .notification-icon:before {
       content: "";
-      color: #4dc657; }
+      color: #7168f8; }
   :local .notification--info {
-    background-color: #ffffff;
-    border-left: 2px solid #349ef3;
+    background-color: #7168f8;
+    border-left: 2px solid #7168f8;
     color: #524c4c; }
     :local .notification--info .notification-icon:before {
       content: "";
-      color: #349ef3; }
+      color: #7168f8; }
   :local .notification--warning {
-    background-color: #ffffff;
-    border-left: 2px solid #f5aa0a;
+    background-color: #7168f8;
+    border-left: 2px solid #7168f8;
     color: #524c4c; }
     :local .notification--warning .notification-icon:before {
       content: "";
-      color: #f5aa0a; }
+      color: #7168f8; }
   :local .notification--error {
-    background-color: #ffffff;
-    border-left: 2px solid #f5311d;
+    background-color: #7168f8;
+    border-left: 2px solid #7168f8;
     color: #524c4c; }
     :local .notification--error .notification-icon:before {
       content: "";
-      color: #f5311d; }
+      color: #7168f8; }
   :local .notification--loading {
     background-color: #ffffff;
     border-left: 2px solid #349ef3;
