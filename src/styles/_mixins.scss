@@ -10,8 +10,8 @@
 
   @if $icon != "" {
     .notification-icon:before {
-      content: $icon;
-      color: $border-color;
+      //   content: $icon;
+      //   color: $border-color;
     }
   } @else {
     .notification-icon {

@@ -485,30 +485,18 @@
     background-color: #7168f8;
     border-left: 2px solid #7168f8;
     color: #ffffff; }
-    :local .notification--success .notification-icon:before {
-      content: "";
-      color: #7168f8; }
   :local .notification--info {
     background-color: #7168f8;
     border-left: 2px solid #7168f8;
     color: #ffffff; }
-    :local .notification--info .notification-icon:before {
-      content: "";
-      color: #7168f8; }
   :local .notification--warning {
     background-color: #7168f8;
     border-left: 2px solid #7168f8;
     color: #ffffff; }
-    :local .notification--warning .notification-icon:before {
-      content: "";
-      color: #7168f8; }
   :local .notification--error {
     background-color: #7168f8;
     border-left: 2px solid #7168f8;
     color: #ffffff; }
-    :local .notification--error .notification-icon:before {
-      content: "";
-      color: #7168f8; }
   :local .notification--loading {
     background-color: #ffffff;
     border-left: 2px solid #349ef3;
@@ -516,6 +504,3 @@
     :local .notification--loading .notification-icon {
       -webkit-animation: rotating 2s infinite linear;
       animation: rotating 2s infinite linear; }
-    :local .notification--loading .notification-icon:before {
-      content: "";
-      color: #349ef3; }
